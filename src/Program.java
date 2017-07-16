@@ -97,6 +97,7 @@ public class Program {
 
         System.out.println( "fa = " + fa + " fb = " + fb  + " cMin = " + cMin );
         System.out.println( "c1 = " + ( ( 5 * ansSum / ( fa+fb ) ) + ( ( sum - ansSum ) / fa ) ) + " c2 = " + ( 10 * ( fa * 8 + fb * ( 8 / 9 * ( s2 - s1 ) ) ) ) );
+        System.out.println( "s1 = " + s1 + "  s2 = " + s2 );
 
     }
 
